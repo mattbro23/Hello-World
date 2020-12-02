@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "TEST",
+    "owner": "Matt Brown"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "CONN",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "NW"
+  }
+}
